@@ -1,0 +1,30 @@
+EmpID,FName,LName,Gender,Age,EMail,Salary,LOC,MGR_ID,DEPT_ID
+677509,Lois,Walker,F,22,lois.walker@hotmail.com,168251,DALLAS,677509,10
+940761,Brenda,Robinson,F,43,brenda.robinson@gmail.com,51063,CHICAGO,940761,10
+428945,Joe,Robinson,M,32,joe.robinson@gmail.com,50155,CHICAGO,428945,10
+408351,Diane,Evans,F,25,diane.evans@yahoo.com,180294,NEW YORK,408351,20
+193819,Benjamin,Russell,M,45,benjamin.russell@charter.net,117642,DALLAS,408951,20
+499687,Patrick,Bailey,M,43,patrick.bailey@aol.com,72305,CHICAGO,499687,20
+539712,Nancy,Baker,F,23,nancy.baker@bp.com,98189,DALLAS,539712,30
+380086,Carol,Murphy,F,33,carol.murphy@gmail.com,60918,NEW YORK,380086,30
+477616,Frances,Young,F,21,frances.young@gmail.com,121587,Pune,477616,30
+162402,Diana,Peterson,F,24,diana.peterson@hotmail.co.uk,43010,NEW YORK,403709,30
+231469,Ralph,Flores,M,35,ralph.flores@yahoo.com,118457,Mumbai,372661,30
+153989,Jack,Alexander,M,54,jack.alexander@gmail.com,82965,DALLAS,341613,10
+386158,Melissa,King,F,19,melissa.king@comcast.net,166892,CHICAGO,310565,20
+301576,Wayne,Watson,M,23,wayne.watson@gmail.com,92758,Pune,279517,20
+441771,Cheryl,Scott,F,43,cheryl.scott@gmail.com,92220,DALLAS,248469,20
+528509,Paula,Diaz,F,55,paula.diaz@gmail.com,152654,CHICAGO,217421,20
+912990,Joshua,Stewart,M,45,joshua.stewart@yahoo.ca,184896,Delhi,186373,10
+214352,Theresa,Lee,F,34,theresa.lee@gmail.com,197537,NEW YORK,155325,30
+890290,Julia,Scott,F,37,julia.scott@apple.com,141518,DALLAS,124277,10
+622406,Thomas,Lewis,M,21,thomas.lewis@gmail.com,73862,CHICAGO,93229,20
+979607,Carol,Edwards,F,22,carol.edwards@msn.com,93967,DALLAS,62181,20
+969580,Matthew,Turner,M,20,matthew.turner@gmail.com,52237,DALLAS,31133,20
+241469,Ralph,Rocky,M,35,ralph.flores@yahoo.com,118457,Pune,372661,30
+1539989,Jack,Alexander2,M,54,jack.alexander@gmail.com,82965,Mumbai,341613,10
+389158,Melissa,Kings,F,19,melissa.king@comcast.net,166892,CHICAGO,310565,20
+301516,Wayne,Watsonewr,M,23,wayne.watson@gmail.com,92758,CHICAGO,279517,20
+441761,Cheryl,Scottyy,F,43,cheryl.scott@gmail.com,92220,Pune,248469,20
+528539,Paula,Diaz12,F,55,paula.diaz@gmail.com,152654,CHICAGO,217421,20
+912890,Joshua,Stewartwewr,M,45,joshua.stewart@yahoo.ca,184896,Delhi,186373,10
